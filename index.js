@@ -1,3 +1,5 @@
+"use strict"
+
 const async = require('async');
 const cryptopiaMarkets    = require('./lib/cryptopia');
 const novaExchangeMarkets = require('./lib/novaExchange');
